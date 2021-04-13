@@ -9,6 +9,8 @@ import EpisodeList from "EpisodeList";
 import App4 from "App4";
 import App5 from "App5";
 import App6 from "App6";
+import App7 from "App7";
+import App8 from "App8";
 import "antd/dist/antd.css";
 
 import reportWebVitals from './reportWebVitals';
@@ -23,6 +25,8 @@ ReactDOM.render(
     <App4 />
     <App5 />
     <App6 />
+    <App7 />
+    <App8 />
   </React.StrictMode>,
   document.getElementById('root')
 );
