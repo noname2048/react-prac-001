@@ -12,6 +12,7 @@ import App6 from "App6";
 import App7 from "App7";
 import App8 from "App8";
 import App9 from "App9";
+import App10 from "App10";
 import "antd/dist/antd.css";
 
 import reportWebVitals from './reportWebVitals';
@@ -29,6 +30,7 @@ ReactDOM.render(
     <App7 />
     <App8 />
     <App9 />
+    <App10 />
   </React.StrictMode>,
   document.getElementById('root')
 );
