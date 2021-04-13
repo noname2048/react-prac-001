@@ -7,6 +7,7 @@ import App3 from "App3";
 import TodoList from "TodoList.js";
 import EpisodeList from "EpisodeList";
 import App4 from "App4";
+import App5 from "App5";
 import "antd/dist/antd.css";
 
 import reportWebVitals from './reportWebVitals';
@@ -19,6 +20,7 @@ ReactDOM.render(
     <App3 />
     {/* <EpisodeList /> */}
     <App4 />
+    <App5 />
   </React.StrictMode>,
   document.getElementById('root')
 );
